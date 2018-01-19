@@ -1,0 +1,49 @@
+body {
+	background: #FCFBE3;
+	padding-top: 15px;
+	font-family: 'Lato', sans-serif;
+
+	/* Permalink - use to edit and share this gradient: http://colorzilla.com/gradient-editor/#ca2b3e+0,a52431+45,6d0019+100 */
+background: rgb(202,43,62); /* Old browsers */
+background: -moz-radial-gradient(center, ellipse cover, rgba(202,43,62,1) 0%, rgba(165,36,49,1) 45%, rgba(109,0,25,1) 100%); /* FF3.6-15 */
+background: -webkit-radial-gradient(center, ellipse cover, rgba(202,43,62,1) 0%,rgba(165,36,49,1) 45%,rgba(109,0,25,1) 100%); /* Chrome10-25,Safari5.1-6 */
+background: radial-gradient(ellipse at center, rgba(202,43,62,1) 0%,rgba(165,36,49,1) 45%,rgba(109,0,25,1) 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#ca2b3e', endColorstr='#6d0019',GradientType=1 ); /* IE6-9 fallback on horizontal gradient */
+}
+
+.content {
+	background: white;
+	border-radius: 5px;
+	padding: 15px;
+	box-shadow: 0 2px 2px rgba(0,0,0,0.1);
+	max-width: 500px;
+	margin: 0 auto;
+}
+
+.logo {
+	max-width: 500px;
+	margin: 0 auto;
+}
+
+.logo img {
+	width: 80%;
+	margin: 15px auto;
+	display: block;
+}
+
+h1 {
+	font-size: 26px;
+	font-weight: bold;
+}
+
+input {
+	margin-bottom: 15px;
+}
+
+.btn-primary,
+.btn-primary:focus,
+.btn-primary:active {
+	background: #ff8f02;
+	border: 0;
+}
+
