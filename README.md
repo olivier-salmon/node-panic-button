@@ -11,6 +11,7 @@ Installation
 https://docs.aws.amazon.com/iot/latest/developerguide/configure-iot.html
 
 Settings
+- rename env file to .env
 - set the environment variables (.env)
 
 ALERT_RECIPIENT_NUMBER=
